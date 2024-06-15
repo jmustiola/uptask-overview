@@ -69,4 +69,4 @@ En `JWT_SECRET`, se le deberá asignar una cadena de caracteres aleatorios para 
 ## Enlaces del Proyecto
 
 - Frontend: [Uptask Frontend](https://github.com/hiahir357/uptask-frontend)
-- Backend: [Uptask Frontend](https://github.com/hiahir357/uptask-backend)
+- Backend: [Uptask Backend](https://github.com/hiahir357/uptask-backend)
